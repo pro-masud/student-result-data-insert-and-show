@@ -1,0 +1,89 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+hr{
+    background-color: #fff;
+}
+
+ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.buttons button{
+    padding: 10px 15px;
+    margin: 0 10px;
+}
+
+.elementor-dashboard{
+    background-color: gray;
+}
+
+.elementor-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #D30B5B;
+    padding: 8px 20px;
+    color: #fff;
+}
+
+.elementor-elements{
+    padding: 10px;
+}
+
+.elementor-elements h6{
+    font-size: 20px;
+    color: #fff;
+    margin-top:6px;
+}
+
+.elementor-elements input[type="text"], .elementor-dashboard textarea{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+}
+
+.elementor-elements input[type="color"]{
+    display: block;
+    width: 60%;
+    padding: 5px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+}
+
+.elementor-dashboard textarea{
+    height: 100px;
+}
+
+.elementor-elements p{
+    color: #fff;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.elementor-elements select{
+    width: 70%;
+    display: block;
+    padding: 5px 8px;
+}
+
+.section-title{
+    padding: 20px 30px;
+}
+
+a{
+    padding: 10px 15px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
